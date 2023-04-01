@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bijitdasgithub
 - 👀 I’m interested in understanding impacts of social attachment in schools
 - 🌱 I’m currently learning machine learning in my free-time on datacamp
-- 💞️ I’m looking to collaborate on my current project of unifying data from censusindia.gov.in and from udiseplus.gov.in
+- 💞️ I’m working on a few projects now and if something catches your fancy, feel free to contact me :)
 - 📫 You can reach me at bijit.das@ehess.fr or twitter.com/iambijitdas.
 
 <!---
